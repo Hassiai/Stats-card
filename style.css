@@ -37,7 +37,7 @@ body {
 }
 
 h1,
-h2 {
+.heading {
     font-family: 'Inter', sans-serif;
     color: hsl(0, 0%, 100%);
 }
@@ -46,8 +46,9 @@ h1 {
     font-size: 1.8rem;
 }
 
-h2 {
+.heading {
     font-size: 1rem;
+    font-weight: 700;
 }
 
 span {
@@ -58,8 +59,9 @@ p {
     font-family: 'Inter', sans-serif;
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 1.5;
-
-
+}
+#space{
+    margin-top: 1em;
 }
 
 .like {
@@ -110,7 +112,7 @@ p {
         margin-top: 2em;
     }
 
-    h2 {
+    .heading {
         text-align: center;
     }
 
