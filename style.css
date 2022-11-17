@@ -22,7 +22,7 @@ body {
 
     background: linear-gradient(hsla(277, 74%, 36%, 0.562), hsla(277, 90%, 33%, 0.562)), url(imobile.jpg) no-repeat;
     background-size: contain;
-    height: 32vh;
+    height: 33.5vh;
     border-radius: 10px 10px 0 0;
 
 }
@@ -93,17 +93,17 @@ p {
 
     .col_text {
         padding: 2em;
-        width: 50%;
+        width: 52%;
         text-align: left;
         border-radius: 10px 0 0 10px;
         height: 39.8vh;
     }
 
     .col_img {
-        width: 50%;
+        width: 48%;
         background: linear-gradient(hsla(277, 90%, 33%, 0.641), hsla(277, 87%, 22%, 0.641)), url(image-header-desktop.jpg) no-repeat;
         background-size: contain;
-        height: 39.8vh;
+        height: 40vh;
         order: 1;
 
         border-radius: 0 10px 10px 0;
